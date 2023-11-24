@@ -212,7 +212,7 @@ Hero Area
 .hero .glide__slides {
     background-color: #9DF6E3;
     position: relative;
-    height: calc(100vh - 6rem);
+    height: calc(60vh - 6rem);
     margin: 0 4rem;
     overflow: hidden;
 }
