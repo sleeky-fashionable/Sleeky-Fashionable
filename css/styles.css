@@ -210,7 +210,7 @@ Hero Area
 
 .hero,
 .hero .glide__slides {
-    background-color: var(--grey2);
+    background-color: #98FF98;
     position: relative;
     height: calc(100vh - 6rem);
     margin: 0 4rem;
